@@ -13,8 +13,6 @@ To learn more, visit https://cheind.github.io/ and browse my repositories :point
   <!--2022/09/01 &nbsp;&nbsp;&nbsp;&nbsp; Added signed distance field toolbox for Python. https://github.com/cheind/sdftoolbox<br>  -->
 </sub>
 
- :christmas_tree: Happy holidays! :christmas_tree: 
-
 
 
 
