@@ -7,7 +7,7 @@ To learn more, visit https://cheind.github.io/ and browse my repositories :point
 
 **Latest Updates**<br>
 <sub>
-  2024/03/13 &nbsp;&nbsp;&nbsp;&nbsp; Published code demo on image stitching via analytic homographies https://github.com/cheind/image-stitch<br>
+  2024/03/13 &nbsp;&nbsp;&nbsp;&nbsp; Just Published a code demo on image stitching via analytic homographies https://github.com/cheind/image-stitch<br>
   2023/08/01 &nbsp;&nbsp;&nbsp;&nbsp; My findings on the 'Anoto micro-dot codec' got [published](https://link.springer.com/chapter/10.1007/978-3-031-37963-5_16) alongside with code https://github.com/cheind/py-microdots<br>
   2022/12/01 &nbsp;&nbsp;&nbsp;&nbsp; Added pure PyTorch implementation of Instant NGP for accelerated learning of NeRFs https://github.com/cheind/pure-torch-ngp<br>
   <!--2022/11/08 &nbsp;&nbsp;&nbsp;&nbsp; Added real spherical harmonics for PyTorch https://github.com/cheind/torch-spherical-harmonics<br> -->
