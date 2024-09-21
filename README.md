@@ -5,6 +5,8 @@ I'm Chris. My research connects perception, robotics and machine learning. <br>
 To learn more, visit https://cheind.github.io/ and browse my repositories :point_down:
 <br>
 
+Please consider supporting my work by buying me a [☕ paypal.me/cheind](https://paypal.me/cheind?country.x=AT&locale.x=de_DE)
+
 **Latest Updates**<br>
 <sub>
   2024/03/13 &nbsp;&nbsp;&nbsp;&nbsp; Just published a code demo on image stitching via analytic homographies https://github.com/cheind/image-stitch<br>
