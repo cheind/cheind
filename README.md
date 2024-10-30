@@ -9,6 +9,7 @@ Please consider supporting my work by buying me a [☕ paypal.me/cheind](https:/
 
 **Latest Updates**<br>
 <sub>
+  2024/10/30 &nbsp;&nbsp;&nbsp;&nbsp; Added ICP implementation for line-like rigid/similarity motion problems in n-dimensions https://github.com/cheind/polyline-icp<br>
   2024/10/17 &nbsp;&nbsp;&nbsp;&nbsp; Added color based depth compression for efficient depth map storing https://github.com/cheind/hue-depth-encoding<br>
   2024/10/10 &nbsp;&nbsp;&nbsp;&nbsp; Added out-of-focus analysis to [image-stitch](https://github.com/cheind/image-stitch) that reveals heavily occluded objects from multiple images<br>
   2024/03/13 &nbsp;&nbsp;&nbsp;&nbsp; Just published a code demo on image stitching via analytic homographies https://github.com/cheind/image-stitch<br>
